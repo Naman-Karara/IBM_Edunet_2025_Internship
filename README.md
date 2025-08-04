@@ -150,6 +150,5 @@ Support PNG, SVG, and PDF exports alongside TikZ for broader use in presentation
 
 Thank you for visiting  
 
-![App Screenshot](https://github.com/Adityasen-cmd/Edunet_Internship_2025/blob/main/Thank%20you%20agent.png?raw=true)
  
 
